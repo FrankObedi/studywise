@@ -3,7 +3,7 @@
 **StudyWise** is an AI-powered mobile app designed to streamline academic organization and enhance learning for students. Upload your syllabus, extract all important academic dates automatically, and turn lecture slides into smart study notes and personalized quizzes—all from your phone or tablet.
 
 
-## Why StudyWise
+## 💡Why StudyWise
 As students, we’ve all experienced the frustration of combing through syllabi to extract important dates and manually creating notes from lectures. StudyWise aims to eliminate these tedious tasks using AI, so students can focus more on learning and less on logistics.
 
 ---
