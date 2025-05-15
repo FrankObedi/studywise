@@ -26,7 +26,7 @@ As students, we’ve all experienced the frustration of combing through syllabi 
   - Organized by topic or slide section  
   - Optimized for mobile reading
 
-### ❓ Intelligent Quiz Creator
+### 🗒️ Intelligent Quiz Creator
 - Generates practice quizzes from lecture material
 - Multiple-choice, true/false, and short-answer formats
 - Provides instant feedback and scoring
