@@ -132,7 +132,7 @@ graph LR
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/studywise.git
+git clone https://github.com/FrankObedi/studywise.git
 cd studywise
 
 # Get Flutter dependencies
